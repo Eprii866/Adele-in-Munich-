@@ -167,7 +167,7 @@ h2 {
     font-family: Reddit Sans Condensed;
     font-weight: 100;
     font-size: 25px;
-    color: white;
+    color: goldenrod;
  }
 
  .div2 {
@@ -247,7 +247,7 @@ h2 {
 
  .div7 {
    float: right;
-   margin-top: 90px;
+   margin-top: 100px;
    margin-right: 50px;
  }
 
@@ -257,10 +257,32 @@ h2 {
    font-weight: 100;
    font-size: 25px;
    border: 0px solid white;
+   padding-top: 50px;
    line-height: 1.5;
    float: left;
    text-align: justify;
    width: 61%;
-   margin-top: 75px;
+   margin-top: 100px;
    margin-left: 50px;
+ }
+
+ .tiktok-post-adele {
+   float: left;
+   width: 40%;
+   margin-left: 120px;
+   margin-top: 150px;
+   border-radius: 1px;
+ }
+
+ .song {
+   color: white;
+   font-family: Reddit Sans Condensed;
+   font-weight: 100;
+   font-size: 25px;
+   border: 0px solid white;
+   float: right;
+   width: 35%;
+   text-align: center;
+   margin-top: 60px;
+   margin-right: 180px;
  }
